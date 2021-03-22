@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Trello" tests="3" time="1.085">
+  <testsuite name="Create Card" id="cef670fe-4a2d-44c7-821b-8af8c5aeec4b" timestamp="2021-03-22T04:07:06.205Z" tests="1" failures="0" errors="0" time="0.606">
+    <testcase name="Successful POST request" time="0.606" classname="Trello"/>
+  </testsuite>
+  <testsuite name="Edit Card" id="626497ae-2f7a-44c1-bfa8-cdaf42837646" timestamp="2021-03-22T04:07:06.205Z" tests="1" failures="0" errors="0" time="0.226">
+    <testcase name="Successful PUT request" time="0.226" classname="Trello"/>
+  </testsuite>
+  <testsuite name="Delete Card" id="e7cf391e-8290-408f-9fa1-20cad6936db7" timestamp="2021-03-22T04:07:06.205Z" tests="1" failures="0" errors="0" time="0.253">
+    <testcase name="Successful DELETE request" time="0.253" classname="Trello"/>
+  </testsuite>
+</testsuites>
